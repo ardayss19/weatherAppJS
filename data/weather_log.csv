@@ -1,0 +1,10 @@
+timestamp,city,temperature,description
+2026-03-16T12:41:01.976Z,Lille,12.86, undefined
+2026-03-16T12:42:15.127Z,Lille,12.86, undefined
+2026-03-16T12:47:28.872Z,Paris,12.67, undefined
+2026-03-16T12:49:01.753Z,Lille,12.86, undefined
+2026-03-16T12:51:29.161Z,Lille,13.31, broken clouds
+2026-03-16T13:43:48.480Z,abc,6.76, overcast clouds
+2026-03-16T13:44:09.623Z,London,11.97, broken clouds
+2026-03-16T13:50:11.190Z,Lille,12.14, broken clouds
+2026-03-16T15:07:59.243Z,Lille,11.79, broken clouds
