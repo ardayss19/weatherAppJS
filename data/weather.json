@@ -5,42 +5,42 @@
   },
   "weather": [
     {
-      "id": 803,
-      "main": "Clouds",
-      "description": "broken clouds",
-      "icon": "04d"
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 11.79,
-    "feels_like": 10.7,
-    "temp_min": 11.04,
-    "temp_max": 13.28,
+    "temp": 16.79,
+    "feels_like": 15.99,
+    "temp_min": 16.1,
+    "temp_max": 17.61,
     "pressure": 1018,
-    "humidity": 64,
+    "humidity": 56,
     "sea_level": 1018,
     "grnd_level": 1014
   },
   "visibility": 10000,
   "wind": {
-    "speed": 7.72,
-    "deg": 260
+    "speed": 4.63,
+    "deg": 170
   },
   "clouds": {
-    "all": 75
+    "all": 0
   },
-  "dt": 1773673610,
+  "dt": 1773758776,
   "sys": {
     "type": 2,
     "id": 2011132,
     "country": "FR",
-    "sunrise": 1773640795,
-    "sunset": 1773683585
+    "sunrise": 1773727062,
+    "sunset": 1773770083
   },
   "timezone": 3600,
   "id": 2998324,
   "name": "Lille",
   "cod": 200,
-  "_last_update_utc": "2026-03-16T15:07:59.243Z"
+  "_last_update_utc": "2026-03-17T14:47:35.228Z"
 }
