@@ -5,9 +5,11 @@ on:
   schedule: 
     - cron: "0 */2 * * *"
   workflow_dispatch: 
-  permissions: 
+
+permissions: 
     contents: write
-  jobs: 
+    
+jobs: 
     test_and_fetch:
       runs-on: ubuntu-latest
       steps: 
@@ -38,4 +40,4 @@ on:
             git commit -m "ci: update weather data" || echo "No changed to commit"
             git push || echo "Push failed or no changes"
         - name: Trigger Render Deploy
-          rune: curl -X POST ${{ secrets.RENDER_DEPLOY_HOOK }}
+          run: curl -X POST ${{ secrets.RENDER_DEPLOY_HOOK }}
