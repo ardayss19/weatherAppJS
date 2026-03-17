@@ -1,45 +1,46 @@
 {
   "coord": {
-    "lon": -0.1257,
-    "lat": 51.5085
+    "lon": 3.0586,
+    "lat": 50.633
   },
   "weather": [
     {
-      "id": 803,
-      "main": "Clouds",
-      "description": "broken clouds",
-      "icon": "04d"
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 14.23,
-    "feels_like": 13.3,
-    "temp_min": 14.23,
-    "temp_max": 14.23,
-    "pressure": 1014,
-    "humidity": 61,
-    "sea_level": 1014,
-    "grnd_level": 1010
+    "temp": 16.7,
+    "feels_like": 15.89,
+    "temp_min": 15.55,
+    "temp_max": 17.34,
+    "pressure": 1018,
+    "humidity": 56,
+    "sea_level": 1018,
+    "grnd_level": 1014
   },
   "visibility": 10000,
   "wind": {
-    "speed": 5.36,
-    "deg": 190,
-    "gust": 8.62
+    "speed": 4.63,
+    "deg": 170
   },
   "clouds": {
-    "all": 74
+    "all": 0
   },
-  "dt": 1773757873,
+  "dt": 1773758442,
   "sys": {
-    "country": "GB",
-    "sunrise": 1773727832,
-    "sunset": 1773770841
+    "type": 2,
+    "id": 2011132,
+    "country": "FR",
+    "sunrise": 1773727062,
+    "sunset": 1773770083
   },
-  "timezone": 0,
-  "id": 2643743,
-  "name": "London",
+  "timezone": 3600,
+  "id": 2998324,
+  "name": "Lille",
   "cod": 200,
-  "_last_update_utc": "2026-03-17T14:36:07.895Z"
+  "_last_update_utc": "2026-03-17T14:40:42.965Z"
 }
