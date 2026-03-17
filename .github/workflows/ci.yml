@@ -8,7 +8,7 @@ on:
 
 permissions: 
     contents: write
-
+    
 jobs: 
     test_and_fetch:
       runs-on: ubuntu-latest
