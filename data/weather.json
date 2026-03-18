@@ -13,13 +13,13 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 11.44,
-    "feels_like": 10.34,
-    "temp_min": 9.39,
-    "temp_max": 11.79,
-    "pressure": 1022,
-    "humidity": 65,
-    "sea_level": 1022,
+    "temp": 14.36,
+    "feels_like": 13.1,
+    "temp_min": 14.12,
+    "temp_max": 14.95,
+    "pressure": 1023,
+    "humidity": 48,
+    "sea_level": 1023,
     "grnd_level": 1019
   },
   "visibility": 10000,
@@ -30,10 +30,10 @@
   "clouds": {
     "all": 0
   },
-  "dt": 1773822802,
+  "dt": 1773830341,
   "sys": {
-    "type": 2,
-    "id": 2011132,
+    "type": 1,
+    "id": 6559,
     "country": "FR",
     "sunrise": 1773813328,
     "sunset": 1773856580
@@ -42,5 +42,5 @@
   "id": 2998324,
   "name": "Lille",
   "cod": 200,
-  "_last_update_utc": "2026-03-18T08:34:02.780Z"
+  "_last_update_utc": "2026-03-18T10:39:01.262Z"
 }
